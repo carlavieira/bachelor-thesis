@@ -1,0 +1,28 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Classification of Requirements Ambiguity Through Machine Learning Techniques
+authors:
+  - family-names: D Abreu Martins Vieira
+    given-names: Carla
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Xavier 
+    given-names: Laerte
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ponciano
+    given-names: Lesandro
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Bastos de Paula
+    given-names: Hugo
+keywords:
+  - Requirements Engineering
+  - Requirements Quality
+  - Machine Learning, 
+  - Natural Language
+  - Ambiguity
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-2-tcci-5308100-pes-carla-vieira
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-08
